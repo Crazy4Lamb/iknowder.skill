@@ -13,7 +13,9 @@
 
 ## 安装
 ```bash
-pip install iknowder
+git clone https://github.com/Crazy4Lamb/iknowder.skill.git
+cd iknowder.skill
+pip install .
 ```
 
 ## 快速使用
