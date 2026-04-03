@@ -64,10 +64,3 @@ PR 标准：
 MIT
 
 ---
-
-### 上传步骤（超简单）
-1. 打开你的 GitHub 仓库
-2. 点击 **Add file → Create new file**
-3. 文件名填：`README.md`
-4. 把上面这段**全部粘贴**进去
-5. 拉到下面点 **Commit new file** 完事
